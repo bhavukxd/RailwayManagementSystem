@@ -1,0 +1,9 @@
+----------------------------------------------------------------------------
+Ticket Number: 97025
+Train Name: Gareeb Rath
+Starting Station: rewari
+Destination: agra
+The number of seats alloted on this ticket number:2
+The total price of 2 tickets will be 100
+Ticket Type : SL
+----------------------------------------------------------------------------

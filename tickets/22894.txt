@@ -1,0 +1,9 @@
+----------------------------------------------------------------------------
+Ticket Number: 22894
+Train Name: Gareeb Rath
+Starting Station: agra
+Destination: agra
+The number of seats alloted on this ticket number:1
+The total price of 1 tickets will be 50
+Ticket Type : SL
+----------------------------------------------------------------------------

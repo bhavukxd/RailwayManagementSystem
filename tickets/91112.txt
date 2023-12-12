@@ -1,0 +1,9 @@
+----------------------------------------------------------------------------
+Ticket Number: 91112
+Train Name: Gareeb Rath
+Starting Station: delhi
+Destination: kanpur
+The number of seats alloted on this ticket number:6
+The total price of 6 tickets will be 300
+Ticket Type : SL
+----------------------------------------------------------------------------
